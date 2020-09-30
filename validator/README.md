@@ -51,6 +51,6 @@ $ node src/validate-main.js
 
 ## Contribute
 
-With VS Code, our recommanded plugin is:
+With VS Code, our recommended plugin is:
 
 - **TSLint** from Microsoft (`ms-vscode.vscode-typescript-tslint-plugin`)
